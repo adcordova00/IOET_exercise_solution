@@ -1,0 +1,4 @@
+C:\Users\Anthony\Desktop\Ioet_Solution_C#\ConsoleApp1\obj\Debug\net5.0\Horarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\Desktop\Ioet_Solution_C#\ConsoleApp1\obj\Debug\net5.0\Horarios.AssemblyInfoInputs.cache
+C:\Users\Anthony\Desktop\Ioet_Solution_C#\ConsoleApp1\obj\Debug\net5.0\Horarios.AssemblyInfo.cs
+C:\Users\Anthony\Desktop\Ioet_Solution_C#\ConsoleApp1\obj\Debug\net5.0\Horarios.csproj.CoreCompileInputs.cache

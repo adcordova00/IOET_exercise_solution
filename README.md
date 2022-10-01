@@ -64,6 +64,8 @@ If you prefer to use Visual Studio 2019:
 
 - Run solution (Build solution and run)
 - Enter full path of file to be analyzed and press enter.
+- Into the solution you can find a .txt archive to test the program.
+-On Linux and Mac the slash are ./ on Windows are .\
 
 ```
 Por favor ingrese la ruta del archivo (Ruta Completa)
